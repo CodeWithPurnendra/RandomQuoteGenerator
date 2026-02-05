@@ -25,3 +25,25 @@ It fetches inspirational quotes from an API and displays them in a modern glassm
 - **Dummy API**
 
 ---
+## 📦 Installation & Setup
+
+### Clone the repository
+```bash
+git clone https://github.com/your-username/random-quote-generator.git
+```
+### Navigate to the project folder
+```bash
+cd random-quote-generator
+```
+### Install dependencies
+```bash
+npm install
+```
+### Start the development server
+```bash
+npm run dev
+```
+---
+## 🌐 API Used
+### Random Quote API
+https://dummyjson.com/quotes/random
