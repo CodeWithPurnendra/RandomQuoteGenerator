@@ -29,7 +29,7 @@ It fetches inspirational quotes from an API and displays them in a modern glassm
 
 ### Clone the repository
 ```bash
-git clone https://github.com/your-username/random-quote-generator.git
+git clone https://github.com/CodeWithPurnendra/RandomQuoteGenerator.git
 ```
 ### Navigate to the project folder
 ```bash
